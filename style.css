@@ -1,0 +1,11 @@
+
+.main_menu li{
+    list-style:none;
+}
+.main_menu li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-right: 31px;
+    font-size: 17px;
+    color: black;
+}
